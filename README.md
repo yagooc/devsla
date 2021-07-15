@@ -20,7 +20,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autor
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://www.linkedin.com/in/yago-oliveira-b32856177/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/38442850?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Yago Oliveira</b></sub></a> <a href="https://www.linkedin.com/in/yago-oliveira-b32856177/" title="LinkedIn">👨‍💼</a>
