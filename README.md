@@ -26,7 +26,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Yago Oliveira</b></sub></a> <a href="https://www.linkedin.com/in/yago-oliveira-b32856177/" title="LinkedIn">👨‍💼</a>
 
 
-Feito com ❤️ por Yago Oliveira 👋🏽 Entre em contato!
+Feito por Yago Oliveira 👋🏽 Entre em contato!
 
 ------------
 <a href="https://api.whatsapp.com/send?phone=5521997977029"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
